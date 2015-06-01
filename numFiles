@@ -1,0 +1,6 @@
+for fileItr in *
+do 
+	count=$((count+1)) 
+done
+
+echo $count
